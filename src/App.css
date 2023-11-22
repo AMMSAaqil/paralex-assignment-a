@@ -1,0 +1,9 @@
+.root{
+    display: flex;
+}
+
+.display-method-three{
+    /* display: block; */
+    display:flex;
+    margin-right:2px ;
+}
